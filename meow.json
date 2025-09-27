@@ -2,7 +2,7 @@
   "users": [
     {
       "login": "admin",
-      "password_sha256": "1305485a712608fdc4d2fd1780c72919f2f54cf288525814bff7120737f6ddad
+      "password_sha256": "1305485a712608fdc4d2fd1780c72919f2f54cf288525814bff7120737f6ddad"
     },
     {
       "login": "admin1",
@@ -10,3 +10,4 @@
     }
   ]
 }
+
